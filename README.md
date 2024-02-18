@@ -1,0 +1,2 @@
+# simpledevops
+practice git
